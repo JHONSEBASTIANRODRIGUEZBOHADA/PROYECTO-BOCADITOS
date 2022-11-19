@@ -1,0 +1,204 @@
+C:\Users\leand\source\repos\Solution1\CapaPresentacion\bin\Debug\net6.0-windows\CapaPresentacion.exe
+C:\Users\leand\source\repos\Solution1\CapaPresentacion\bin\Debug\net6.0-windows\CapaPresentacion.deps.json
+C:\Users\leand\source\repos\Solution1\CapaPresentacion\bin\Debug\net6.0-windows\CapaPresentacion.runtimeconfig.json
+C:\Users\leand\source\repos\Solution1\CapaPresentacion\bin\Debug\net6.0-windows\CapaPresentacion.dll
+C:\Users\leand\source\repos\Solution1\CapaPresentacion\bin\Debug\net6.0-windows\CapaPresentacion.pdb
+C:\Users\leand\source\repos\Solution1\CapaPresentacion\bin\Debug\net6.0-windows\CapaDatos.dll
+C:\Users\leand\source\repos\Solution1\CapaPresentacion\bin\Debug\net6.0-windows\CapaEntidad.dll
+C:\Users\leand\source\repos\Solution1\CapaPresentacion\bin\Debug\net6.0-windows\CapaNegocio.dll
+C:\Users\leand\source\repos\Solution1\CapaPresentacion\bin\Debug\net6.0-windows\CapaEntidad.pdb
+C:\Users\leand\source\repos\Solution1\CapaPresentacion\bin\Debug\net6.0-windows\CapaNegocio.pdb
+C:\Users\leand\source\repos\Solution1\CapaPresentacion\bin\Debug\net6.0-windows\CapaDatos.pdb
+C:\Users\leand\source\repos\Solution1\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\leand\source\repos\Solution1\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leand\source\repos\Solution1\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.AssemblyInfoInputs.cache
+C:\Users\leand\source\repos\Solution1\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.AssemblyInfo.cs
+C:\Users\leand\source\repos\Solution1\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\leand\source\repos\Solution1\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.csproj.CopyComplete
+C:\Users\leand\source\repos\Solution1\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.dll
+C:\Users\leand\source\repos\Solution1\CapaPresentacion\obj\Debug\net6.0-windows\refint\CapaPresentacion.dll
+C:\Users\leand\source\repos\Solution1\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.pdb
+C:\Users\leand\source\repos\Solution1\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.genruntimeconfig.cache
+C:\Users\leand\source\repos\Solution1\CapaPresentacion\obj\Debug\net6.0-windows\ref\CapaPresentacion.dll
+C:\Users\leand\source\repos\Solution1\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.Login.resources
+C:\Users\leand\source\repos\Solution1\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\leand\source\repos\Solution1\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.Properties.Resources.resources
+C:\Users\leand\source\repos\Solution1\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.MDI.resources
+C:\Users\leand\source\repos\Solution1\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.Productos.resources
+C:\Users\Sena\Source\Repos\MDI\CapaPresentacion\bin\Debug\net6.0-windows\CapaPresentacion.exe
+C:\Users\Sena\Source\Repos\MDI\CapaPresentacion\bin\Debug\net6.0-windows\CapaPresentacion.deps.json
+C:\Users\Sena\Source\Repos\MDI\CapaPresentacion\bin\Debug\net6.0-windows\CapaPresentacion.runtimeconfig.json
+C:\Users\Sena\Source\Repos\MDI\CapaPresentacion\bin\Debug\net6.0-windows\CapaPresentacion.dll
+C:\Users\Sena\Source\Repos\MDI\CapaPresentacion\bin\Debug\net6.0-windows\CapaPresentacion.pdb
+C:\Users\Sena\Source\Repos\MDI\CapaPresentacion\bin\Debug\net6.0-windows\CapaDatos.dll
+C:\Users\Sena\Source\Repos\MDI\CapaPresentacion\bin\Debug\net6.0-windows\CapaEntidad.dll
+C:\Users\Sena\Source\Repos\MDI\CapaPresentacion\bin\Debug\net6.0-windows\CapaNegocio.dll
+C:\Users\Sena\Source\Repos\MDI\CapaPresentacion\bin\Debug\net6.0-windows\CapaEntidad.pdb
+C:\Users\Sena\Source\Repos\MDI\CapaPresentacion\bin\Debug\net6.0-windows\CapaNegocio.pdb
+C:\Users\Sena\Source\Repos\MDI\CapaPresentacion\bin\Debug\net6.0-windows\CapaDatos.pdb
+C:\Users\Sena\Source\Repos\MDI\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\Sena\Source\Repos\MDI\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.Login.resources
+C:\Users\Sena\Source\Repos\MDI\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.MDI.resources
+C:\Users\Sena\Source\Repos\MDI\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.Productos.resources
+C:\Users\Sena\Source\Repos\MDI\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.Properties.Resources.resources
+C:\Users\Sena\Source\Repos\MDI\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\Sena\Source\Repos\MDI\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sena\Source\Repos\MDI\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.AssemblyInfoInputs.cache
+C:\Users\Sena\Source\Repos\MDI\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.AssemblyInfo.cs
+C:\Users\Sena\Source\Repos\MDI\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Sena\Source\Repos\MDI\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.csproj.CopyComplete
+C:\Users\Sena\Source\Repos\MDI\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.dll
+C:\Users\Sena\Source\Repos\MDI\CapaPresentacion\obj\Debug\net6.0-windows\refint\CapaPresentacion.dll
+C:\Users\Sena\Source\Repos\MDI\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.pdb
+C:\Users\Sena\Source\Repos\MDI\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.genruntimeconfig.cache
+C:\Users\Sena\Source\Repos\MDI\CapaPresentacion\obj\Debug\net6.0-windows\ref\CapaPresentacion.dll
+C:\Users\Sena\source\repos\MDI\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.IngresarProducto.resources
+C:\Users\Sena\source\repos\MDI\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.ModificarProducto.resources
+C:\Users\Sena\source\repos\MDI\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.ConsultarProducto.resources
+C:\Users\Sena\source\repos\MDI\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.EliminarProducto.resources
+C:\Users\leand\Source\Repos\MDI\CapaPresentacion\bin\Debug\net6.0-windows\CapaPresentacion.exe
+C:\Users\leand\Source\Repos\MDI\CapaPresentacion\bin\Debug\net6.0-windows\CapaPresentacion.deps.json
+C:\Users\leand\Source\Repos\MDI\CapaPresentacion\bin\Debug\net6.0-windows\CapaPresentacion.runtimeconfig.json
+C:\Users\leand\Source\Repos\MDI\CapaPresentacion\bin\Debug\net6.0-windows\CapaPresentacion.dll
+C:\Users\leand\Source\Repos\MDI\CapaPresentacion\bin\Debug\net6.0-windows\CapaPresentacion.pdb
+C:\Users\leand\Source\Repos\MDI\CapaPresentacion\bin\Debug\net6.0-windows\CapaDatos.dll
+C:\Users\leand\Source\Repos\MDI\CapaPresentacion\bin\Debug\net6.0-windows\CapaEntidad.dll
+C:\Users\leand\Source\Repos\MDI\CapaPresentacion\bin\Debug\net6.0-windows\CapaNegocio.dll
+C:\Users\leand\Source\Repos\MDI\CapaPresentacion\bin\Debug\net6.0-windows\CapaEntidad.pdb
+C:\Users\leand\Source\Repos\MDI\CapaPresentacion\bin\Debug\net6.0-windows\CapaNegocio.pdb
+C:\Users\leand\Source\Repos\MDI\CapaPresentacion\bin\Debug\net6.0-windows\CapaDatos.pdb
+C:\Users\leand\Source\Repos\MDI\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\leand\Source\Repos\MDI\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.ConsultarProducto.resources
+C:\Users\leand\Source\Repos\MDI\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.EliminarProducto.resources
+C:\Users\leand\Source\Repos\MDI\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.IngresarProducto.resources
+C:\Users\leand\Source\Repos\MDI\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.Login.resources
+C:\Users\leand\Source\Repos\MDI\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.MDI.resources
+C:\Users\leand\Source\Repos\MDI\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.ModificarProducto.resources
+C:\Users\leand\Source\Repos\MDI\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.Productos.resources
+C:\Users\leand\Source\Repos\MDI\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.Properties.Resources.resources
+C:\Users\leand\Source\Repos\MDI\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\leand\Source\Repos\MDI\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leand\Source\Repos\MDI\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.AssemblyInfoInputs.cache
+C:\Users\leand\Source\Repos\MDI\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.AssemblyInfo.cs
+C:\Users\leand\Source\Repos\MDI\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\leand\Source\Repos\MDI\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.csproj.CopyComplete
+C:\Users\leand\Source\Repos\MDI\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.dll
+C:\Users\leand\Source\Repos\MDI\CapaPresentacion\obj\Debug\net6.0-windows\refint\CapaPresentacion.dll
+C:\Users\leand\Source\Repos\MDI\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.pdb
+C:\Users\leand\Source\Repos\MDI\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.genruntimeconfig.cache
+C:\Users\leand\Source\Repos\MDI\CapaPresentacion\obj\Debug\net6.0-windows\ref\CapaPresentacion.dll
+C:\Users\leand\source\repos\MDI\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.Clientes.resources
+C:\Users\leand\source\repos\MDI\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.Ingresar_Cliente.resources
+C:\Users\leand\source\repos\MDI\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.ConsultarCliente.resources
+C:\Users\leand\source\repos\MDI\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.EliminarCliente.resources
+C:\Users\leand\source\repos\MDI\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.ModificarCliente.resources
+C:\Users\leand\source\repos\MDI\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.Facturar.resources
+C:\Users\leand\source\repos\MDI\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.Inventario.resources
+C:\Users\leand\source\repos\MDI\CapaPresentacion\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\leand\source\repos\MDI\CapaPresentacion\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\leand\source\repos\MDI\CapaPresentacion\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\leand\source\repos\MDI\CapaPresentacion\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\leand\source\repos\MDI\CapaPresentacion\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\leand\source\repos\MDI\CapaPresentacion\bin\Debug\net6.0-windows\Ubiety.Dns.Core.dll
+C:\Users\leand\source\repos\MDI\CapaPresentacion\bin\Debug\net6.0-windows\ZstdNet.dll
+C:\Users\leand\source\repos\MDI\CapaPresentacion\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\Sena\Source\Repos\MDI\CapaPresentacion\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\Sena\Source\Repos\MDI\CapaPresentacion\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Sena\Source\Repos\MDI\CapaPresentacion\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Sena\Source\Repos\MDI\CapaPresentacion\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Sena\Source\Repos\MDI\CapaPresentacion\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\Sena\Source\Repos\MDI\CapaPresentacion\bin\Debug\net6.0-windows\Ubiety.Dns.Core.dll
+C:\Users\Sena\Source\Repos\MDI\CapaPresentacion\bin\Debug\net6.0-windows\ZstdNet.dll
+C:\Users\Sena\Source\Repos\MDI\CapaPresentacion\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\Sena\Source\Repos\MDI\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.Clientes.resources
+C:\Users\Sena\Source\Repos\MDI\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.ConsultarCliente.resources
+C:\Users\Sena\Source\Repos\MDI\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.EliminarCliente.resources
+C:\Users\Sena\Source\Repos\MDI\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.Facturar.resources
+C:\Users\Sena\Source\Repos\MDI\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.Ingresar_Cliente.resources
+C:\Users\Sena\Source\Repos\MDI\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.Inventario.resources
+C:\Users\Sena\Source\Repos\MDI\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.ModificarCliente.resources
+C:\Users\leand\Source\Repos\NaturVida\CapaPresentacion\bin\Debug\net6.0-windows\CapaPresentacion.exe
+C:\Users\leand\Source\Repos\NaturVida\CapaPresentacion\bin\Debug\net6.0-windows\CapaPresentacion.deps.json
+C:\Users\leand\Source\Repos\NaturVida\CapaPresentacion\bin\Debug\net6.0-windows\CapaPresentacion.runtimeconfig.json
+C:\Users\leand\Source\Repos\NaturVida\CapaPresentacion\bin\Debug\net6.0-windows\CapaPresentacion.dll
+C:\Users\leand\Source\Repos\NaturVida\CapaPresentacion\bin\Debug\net6.0-windows\CapaPresentacion.pdb
+C:\Users\leand\Source\Repos\NaturVida\CapaPresentacion\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\leand\Source\Repos\NaturVida\CapaPresentacion\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\leand\Source\Repos\NaturVida\CapaPresentacion\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\leand\Source\Repos\NaturVida\CapaPresentacion\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\leand\Source\Repos\NaturVida\CapaPresentacion\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\leand\Source\Repos\NaturVida\CapaPresentacion\bin\Debug\net6.0-windows\Ubiety.Dns.Core.dll
+C:\Users\leand\Source\Repos\NaturVida\CapaPresentacion\bin\Debug\net6.0-windows\ZstdNet.dll
+C:\Users\leand\Source\Repos\NaturVida\CapaPresentacion\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\leand\Source\Repos\NaturVida\CapaPresentacion\bin\Debug\net6.0-windows\CapaDatos.dll
+C:\Users\leand\Source\Repos\NaturVida\CapaPresentacion\bin\Debug\net6.0-windows\CapaEntidad.dll
+C:\Users\leand\Source\Repos\NaturVida\CapaPresentacion\bin\Debug\net6.0-windows\CapaNegocio.dll
+C:\Users\leand\Source\Repos\NaturVida\CapaPresentacion\bin\Debug\net6.0-windows\CapaEntidad.pdb
+C:\Users\leand\Source\Repos\NaturVida\CapaPresentacion\bin\Debug\net6.0-windows\CapaNegocio.pdb
+C:\Users\leand\Source\Repos\NaturVida\CapaPresentacion\bin\Debug\net6.0-windows\CapaDatos.pdb
+C:\Users\leand\Source\Repos\NaturVida\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\leand\Source\Repos\NaturVida\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.Clientes.resources
+C:\Users\leand\Source\Repos\NaturVida\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.ConsultarCliente.resources
+C:\Users\leand\Source\Repos\NaturVida\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.ConsultarProducto.resources
+C:\Users\leand\Source\Repos\NaturVida\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.EliminarCliente.resources
+C:\Users\leand\Source\Repos\NaturVida\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.EliminarProducto.resources
+C:\Users\leand\Source\Repos\NaturVida\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.Facturar.resources
+C:\Users\leand\Source\Repos\NaturVida\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.Ingresar_Cliente.resources
+C:\Users\leand\Source\Repos\NaturVida\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.IngresarProducto.resources
+C:\Users\leand\Source\Repos\NaturVida\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.Inventario.resources
+C:\Users\leand\Source\Repos\NaturVida\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.Login.resources
+C:\Users\leand\Source\Repos\NaturVida\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.MDI.resources
+C:\Users\leand\Source\Repos\NaturVida\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.ModificarCliente.resources
+C:\Users\leand\Source\Repos\NaturVida\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.ModificarProducto.resources
+C:\Users\leand\Source\Repos\NaturVida\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.Productos.resources
+C:\Users\leand\Source\Repos\NaturVida\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.Properties.Resources.resources
+C:\Users\leand\Source\Repos\NaturVida\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\leand\Source\Repos\NaturVida\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leand\Source\Repos\NaturVida\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.AssemblyInfoInputs.cache
+C:\Users\leand\Source\Repos\NaturVida\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.AssemblyInfo.cs
+C:\Users\leand\Source\Repos\NaturVida\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\leand\Source\Repos\NaturVida\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.csproj.CopyComplete
+C:\Users\leand\Source\Repos\NaturVida\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.dll
+C:\Users\leand\Source\Repos\NaturVida\CapaPresentacion\obj\Debug\net6.0-windows\refint\CapaPresentacion.dll
+C:\Users\leand\Source\Repos\NaturVida\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.pdb
+C:\Users\leand\Source\Repos\NaturVida\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.genruntimeconfig.cache
+C:\Users\leand\Source\Repos\NaturVida\CapaPresentacion\obj\Debug\net6.0-windows\ref\CapaPresentacion.dll
+C:\Users\leand\OneDrive\Escritorio\Naturvida Leandro Ramirez\Naturvida\CapaPresentacion\bin\Debug\net6.0-windows\CapaPresentacion.exe
+C:\Users\leand\OneDrive\Escritorio\Naturvida Leandro Ramirez\Naturvida\CapaPresentacion\bin\Debug\net6.0-windows\CapaPresentacion.deps.json
+C:\Users\leand\OneDrive\Escritorio\Naturvida Leandro Ramirez\Naturvida\CapaPresentacion\bin\Debug\net6.0-windows\CapaPresentacion.runtimeconfig.json
+C:\Users\leand\OneDrive\Escritorio\Naturvida Leandro Ramirez\Naturvida\CapaPresentacion\bin\Debug\net6.0-windows\CapaPresentacion.dll
+C:\Users\leand\OneDrive\Escritorio\Naturvida Leandro Ramirez\Naturvida\CapaPresentacion\bin\Debug\net6.0-windows\CapaPresentacion.pdb
+C:\Users\leand\OneDrive\Escritorio\Naturvida Leandro Ramirez\Naturvida\CapaPresentacion\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\leand\OneDrive\Escritorio\Naturvida Leandro Ramirez\Naturvida\CapaPresentacion\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\leand\OneDrive\Escritorio\Naturvida Leandro Ramirez\Naturvida\CapaPresentacion\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\leand\OneDrive\Escritorio\Naturvida Leandro Ramirez\Naturvida\CapaPresentacion\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\leand\OneDrive\Escritorio\Naturvida Leandro Ramirez\Naturvida\CapaPresentacion\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\leand\OneDrive\Escritorio\Naturvida Leandro Ramirez\Naturvida\CapaPresentacion\bin\Debug\net6.0-windows\Ubiety.Dns.Core.dll
+C:\Users\leand\OneDrive\Escritorio\Naturvida Leandro Ramirez\Naturvida\CapaPresentacion\bin\Debug\net6.0-windows\ZstdNet.dll
+C:\Users\leand\OneDrive\Escritorio\Naturvida Leandro Ramirez\Naturvida\CapaPresentacion\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\leand\OneDrive\Escritorio\Naturvida Leandro Ramirez\Naturvida\CapaPresentacion\bin\Debug\net6.0-windows\CapaDatos.dll
+C:\Users\leand\OneDrive\Escritorio\Naturvida Leandro Ramirez\Naturvida\CapaPresentacion\bin\Debug\net6.0-windows\CapaEntidad.dll
+C:\Users\leand\OneDrive\Escritorio\Naturvida Leandro Ramirez\Naturvida\CapaPresentacion\bin\Debug\net6.0-windows\CapaNegocio.dll
+C:\Users\leand\OneDrive\Escritorio\Naturvida Leandro Ramirez\Naturvida\CapaPresentacion\bin\Debug\net6.0-windows\CapaEntidad.pdb
+C:\Users\leand\OneDrive\Escritorio\Naturvida Leandro Ramirez\Naturvida\CapaPresentacion\bin\Debug\net6.0-windows\CapaNegocio.pdb
+C:\Users\leand\OneDrive\Escritorio\Naturvida Leandro Ramirez\Naturvida\CapaPresentacion\bin\Debug\net6.0-windows\CapaDatos.pdb
+C:\Users\leand\OneDrive\Escritorio\Naturvida Leandro Ramirez\Naturvida\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\leand\OneDrive\Escritorio\Naturvida Leandro Ramirez\Naturvida\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.ConsultarProducto.resources
+C:\Users\leand\OneDrive\Escritorio\Naturvida Leandro Ramirez\Naturvida\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.EliminarProducto.resources
+C:\Users\leand\OneDrive\Escritorio\Naturvida Leandro Ramirez\Naturvida\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.IngresarProducto.resources
+C:\Users\leand\OneDrive\Escritorio\Naturvida Leandro Ramirez\Naturvida\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.Login.resources
+C:\Users\leand\OneDrive\Escritorio\Naturvida Leandro Ramirez\Naturvida\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.MDI.resources
+C:\Users\leand\OneDrive\Escritorio\Naturvida Leandro Ramirez\Naturvida\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.ModificarProducto.resources
+C:\Users\leand\OneDrive\Escritorio\Naturvida Leandro Ramirez\Naturvida\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.Productos.resources
+C:\Users\leand\OneDrive\Escritorio\Naturvida Leandro Ramirez\Naturvida\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.Properties.Resources.resources
+C:\Users\leand\OneDrive\Escritorio\Naturvida Leandro Ramirez\Naturvida\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\leand\OneDrive\Escritorio\Naturvida Leandro Ramirez\Naturvida\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leand\OneDrive\Escritorio\Naturvida Leandro Ramirez\Naturvida\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.AssemblyInfoInputs.cache
+C:\Users\leand\OneDrive\Escritorio\Naturvida Leandro Ramirez\Naturvida\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.AssemblyInfo.cs
+C:\Users\leand\OneDrive\Escritorio\Naturvida Leandro Ramirez\Naturvida\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\leand\OneDrive\Escritorio\Naturvida Leandro Ramirez\Naturvida\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.csproj.CopyComplete
+C:\Users\leand\OneDrive\Escritorio\Naturvida Leandro Ramirez\Naturvida\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.dll
+C:\Users\leand\OneDrive\Escritorio\Naturvida Leandro Ramirez\Naturvida\CapaPresentacion\obj\Debug\net6.0-windows\refint\CapaPresentacion.dll
+C:\Users\leand\OneDrive\Escritorio\Naturvida Leandro Ramirez\Naturvida\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.pdb
+C:\Users\leand\OneDrive\Escritorio\Naturvida Leandro Ramirez\Naturvida\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.genruntimeconfig.cache
+C:\Users\leand\OneDrive\Escritorio\Naturvida Leandro Ramirez\Naturvida\CapaPresentacion\obj\Debug\net6.0-windows\ref\CapaPresentacion.dll
